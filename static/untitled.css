@@ -1,0 +1,27 @@
+h1 {
+   color: blue;
+   border: 2 px;
+   border-top: 5 px;
+ }
+ p {
+   color: pink;
+   margin-top: 100px;
+ margin-bottom: 100px;
+ margin-right: 150px;
+ margin-left: 80px;
+    padding-top: 100px;
+  padding-right: 100px;
+  padding-bottom: 150px;
+  padding-left: 80px;
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  p {
+  color: red;
+}
+font-style: italic; 90
+ }
